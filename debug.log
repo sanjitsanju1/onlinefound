@@ -1,0 +1,5 @@
+[0629/113515.885:ERROR:file_io_win.cc(179)] CreateFile C:\Users\SANJIT~1\AppData\Local\Temp\scoped_dir12020_136027292\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0629/113904.868:ERROR:file_io_win.cc(179)] CreateFile C:\Users\SANJIT~1\AppData\Local\Temp\scoped_dir6280_1752623573\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0629/124302.253:ERROR:file_io_win.cc(179)] CreateFile C:\Users\SANJIT~1\AppData\Local\Temp\scoped_dir9140_2117459003\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0630/084938.422:ERROR:file_io_win.cc(179)] CreateFile C:\Users\SANJIT~1\AppData\Local\Temp\scoped_dir10700_1989252173\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0630/085048.258:ERROR:file_io_win.cc(179)] CreateFile C:\Users\SANJIT~1\AppData\Local\Temp\scoped_dir11744_7946237\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
